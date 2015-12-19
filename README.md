@@ -6,4 +6,4 @@ Here are some mockups for the creation hour website that I designed on Sketch. F
 ![alt tag](https://github.com/CreationHour/Website-mockups/blob/master/home/Landing_V1.png)
 
 ### version 2
-![alt tag](https://github.com/CreationHour/Website-mockups/blob/master/home/Landing_V2.png)
+![alt tag](https://github.com/CreationHour/Website-mockups/blob/master/home/V2.png)
